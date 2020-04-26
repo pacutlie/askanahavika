@@ -23,19 +23,18 @@ export default class Index extends Component {
 
     return (
       <Layout>
-        <Helmet title={`${config.siteTitle} – Full Stack Software Developer`} />
+        <Helmet title={`${config.siteTitle} – Askana Havika`} />
         <SEO />
         <div className="container">
           <div className="lead">
             <div className="elevator">
-              <h1>{`Hey, I'm Tania 👋`} </h1>
+              <h1>{`Hey, I'm Askana Havika 👋`} </h1>
               <p>
-                {`I'm a full stack software developer creating `}
-                <a href="https://github.com/taniarascia" target="_blank" rel="noopener noreferrer">
+                {`I'm 3-year-old baby still drinks milk. `}
+                <a href="#" target="_blank" rel="noopener noreferrer">
                   open source
                 </a>{' '}
-                projects and <Link to="/blog">writing</Link> about modern JavaScript, Node.js, and
-                development.
+                This blog build by My Father for posting anythink about my daily activity.
               </p>
               <div className="social-buttons">
                 <GitHubButton
