@@ -31,18 +31,16 @@ export default class Index extends Component {
               <h1>{`Hey, I'm Askana Havika 👋`} </h1>
               <p>
                 {`I'm 3-year-old baby still drinks milk. `}
-                <a href="#" target="_blank" rel="noopener noreferrer">
-                  open source
-                </a>{' '}
+                {' '}
                 This blog build by My Father for posting anythink about my daily activity.
               </p>
               <div className="social-buttons">
                 <GitHubButton
-                  href="https://github.com/taniarascia"
+                  href="https://github.com/pacutlie"
                   data-size="large"
                   data-show-count="true"
                 >
-                  taniarascia
+                  pacutlie
                 </GitHubButton>
               </div>
             </div>
