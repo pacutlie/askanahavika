@@ -12,7 +12,7 @@ import projects from '../../data/projects'
 import speaking from '../../data/speaking'
 import podcasts from '../../data/podcasts'
 import quotes from '../../data/quotes'
-import tania from '../../content/images/tania2020crop.jpg'
+import askana from '../../content/images/askana.png'
 
 export default class Index extends Component {
   render() {
@@ -45,7 +45,7 @@ export default class Index extends Component {
               </div>
             </div>
             <div className="newsletter-section">
-              <img src={tania} className="newsletter-avatar" alt="Tania" />
+              <img src={askana} className="newsletter-avatar" alt="Askana Havika" />
               <div>
                 <h3>Email Newsletter</h3>
                 <p>
