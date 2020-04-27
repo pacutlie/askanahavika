@@ -1,0 +1,18 @@
+---
+date: 2020-04-27
+title: 'Postingan Pertama saya di Gatsby'
+template: post
+thumbnail: '../thumbnails/blinky.png'
+slug: postingan-pertama-saya-di-gatsby
+categories:
+  - Code
+tags:
+  - gatsby
+  - belajar
+  - node.js
+  - cosmic.js
+---
+
+Saya sedang belajar Gatsby untuk membuat website yang ringan dan modern dengan teknologi terbaru node.js, saya mengambil sample clone website [taniarascia.com](https://github.com/taniarascia/taniarascia.com) sebagai bahan pembelajaran, saya coba install di local machine menggunakan clone dari website Taniarascia.com namun selalu error di plugin Sharp, saya belum berhasil.
+
+Lalu saya gunakan layanan netlify.com yang datanya disimpan di Github.com dengan hasil seperti ini.
